@@ -1,0 +1,14 @@
+layout_spectrum: 0.40623560291714966
+typography_spectrum: 0.5920382218901068
+color:
+  brandStrength: 0.33615676686167717
+  lightness: 0.9676253888756037
+  saturation: 0.29640113236382604
+  rhythmicContrast: 0.1187511736061424
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+name: idea farming
