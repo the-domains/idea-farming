@@ -6,9 +6,13 @@ color:
   saturation: 0.29640113236382604
   rhythmicContrast: 0.1187511736061424
   brandColors:
-    - '#225378'
-    - '#1695A3'
-    - '#ACF0F2'
-    - '#F3FFE2'
-    - '#EB7F00'
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
 name: idea farming
+navigation:
+  - id: 5a5f62ed-3371-4085-9056-7eafb255d77e
+    name: from idea to reality
+    type: content
