@@ -12,4 +12,8 @@ color:
     - '#EB7F00'
 layout_spectrum: 0.40623560291714966
 name: idea farming
+navigation:
+  - name: Predictions for 2016
+    id: e2a63d32-e0b3-4696-b4a8-cd14c1cc1128
+    type: content
 title: from thought to reality
