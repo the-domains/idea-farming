@@ -28,16 +28,14 @@ description: >-
   in 2014.
 inLanguage: en
 app_links: []
-isBasedOnUrl: 'http://www.techspot.com/article/1118-tech-predictions-2016/'
 title: 10 Tech Predictions for 2016
-datePublished: '2016-08-31T21:45:46.186Z'
-dateModified: '2016-08-31T21:44:59.199Z'
+datePublished: '2016-08-31T21:51:07.701Z'
+dateModified: '2016-08-31T21:51:06.454Z'
 via: {}
-starred: false
 sourcePath: _posts/2016-08-31-10-tech-predictions-for-2016.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: 10-tech-predictions-for-2016/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
