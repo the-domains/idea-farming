@@ -27,20 +27,17 @@ description: >-
   projections. Gründerszene compared all diverse forecasts in a meta-analysis.
 inLanguage: en
 app_links: []
-isBasedOnUrl: >-
-  http://www.i-q-i.net/en/tech-trends-2016-virtual-reality-and-artificial-intelligence/
 title: >-
   Tech Trends 2016: Virtual Reality and Artificial Intelligence - iq!
   Managementberatung - eCommerce, Multi-Channel & IoT‎
-datePublished: '2016-08-31T18:22:49.967Z'
-dateModified: '2016-08-31T18:14:07.849Z'
+datePublished: '2016-08-31T21:33:01.754Z'
+dateModified: '2016-08-31T21:33:00.921Z'
 via: {}
-starred: false
 sourcePath: >-
   _posts/2016-08-31-tech-trends-2016-virtual-reality-and-artificial-intelligenc.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: tech-trends-2016-virtual-reality-and-artificial-intelligenc/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
